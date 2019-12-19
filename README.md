@@ -6,4 +6,4 @@
 `student-mat.csv` - файл с датасетом  
 `student.txt` - файл с описанием  
 
-Первая задача - файл `FirstTask.ipynb`
+Первая задача (а также вторая и третья) - файл `FirstTask.ipynb`
